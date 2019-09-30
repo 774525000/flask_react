@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\zone/src\\index.scss"],"names":[],"mappings":"AAAA,EACC,QAAS,CACT,SAAU,CAGX,GACC,eAAgB,CAGjB,EACC,oBAAqB,CACrB,UAAW","file":"main.c1944ed5.chunk.css","sourcesContent":["*{\r\n\tmargin: 0;\r\n\tpadding: 0;\r\n}\r\n\r\nli{\r\n\tlist-style: none;\r\n}\r\n\r\na{\r\n\ttext-decoration: none;\r\n\tcolor: #333;\r\n}"]}

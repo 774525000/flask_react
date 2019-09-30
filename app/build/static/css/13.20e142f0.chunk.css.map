@@ -1,0 +1,1 @@
+{"version":3,"sources":["D:\\zone/src\\pages\\layout\\index.scss"],"names":[],"mappings":"AAAA,OACC,YAAa,CACb,oBAAqB,CACrB,UAAW,CAGZ,UACC,aAAc","file":"13.20e142f0.chunk.css","sourcesContent":["a.navs{\n\tdisplay: flex;\n\ttext-decoration: none;\n\tcolor: #333;\n}\n\na.current{\n\tcolor: #9c27b0;\n}\n"]}
